@@ -1,2 +1,2 @@
 # programs
-programs repo
+programs repo for practicing programs
